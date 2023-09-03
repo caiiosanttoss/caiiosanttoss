@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @caiiosanttoss
 - 👀 I’m interested in Studyng
-- 🌱 I’m currently learning JavaScript e React
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript, HTML, CSS e React
 - 📫 How to reach me  RECIFE-PE
 
 <!---
