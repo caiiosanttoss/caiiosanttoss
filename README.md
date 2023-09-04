@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @caiiosanttoss
 - 👀 I’m interested in Studyng
 - 🌱 I’m currently learning JavaScript, HTML, CSS e React
-- 📫 How to reach me  RECIFE-PE
+- 📫 How to reach me  caio2000inove@gmail.om
+- 📫RECIFE-PE
 
 <!---
 caiiosanttoss/caiiosanttoss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
