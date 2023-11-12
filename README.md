@@ -18,7 +18,7 @@
     <li>HTMLL </li> 
     <li>React/NextJS</li>
   </p></ul>
-
+https://tenor.com/view/code-its-fun-its-fun-code-programming-programmer-gif-19318850
 <div>
 <a href="https://github.com/caiiosanttoss">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiiosanttoss&layout=compact&langs_count=7&theme=dracula"/>
