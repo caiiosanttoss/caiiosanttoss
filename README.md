@@ -18,7 +18,7 @@
     <li>HTMLL </li> 
     <li>React/NextJS</li>
   </p></ul>
-<img src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357">
+<img src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357"></img>
 
 <div>
 <a href="https://github.com/caiiosanttoss">
