@@ -14,11 +14,7 @@
 <p>
   <p>
   <ul><li>JavaScript  </li> 
-            
-          
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-    <li>CSS</li>
+   <li>CSS</li>
     <li>HTMLL </li> 
     <li>React/NextJS</li>
   </p></ul>
