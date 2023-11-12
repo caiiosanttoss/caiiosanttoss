@@ -18,9 +18,8 @@
     <li>HTMLL </li> 
     <li>React/NextJS</li>
   </p></ul>
-<div>
-<div class="tenor-gif-embed" data-postid="19318850" data-share-method="host" data-aspect-ratio="2.02532" data-width="100%"><a href="https://tenor.com/view/code-its-fun-its-fun-code-programming-programmer-gif-19318850">Code Its Fun Code GIF</a>from <a href="https://tenor.com/search/code+its+fun-gifs">Code Its Fun GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script></div>
 
+<div class="tenor-gif-embed" data-postid="5368357" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-computer-typing-fast-gif-5368357">Cat Computer GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <div>
 <a href="https://github.com/caiiosanttoss">
