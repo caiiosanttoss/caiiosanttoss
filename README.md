@@ -18,8 +18,7 @@
     <li>HTMLL </li> 
     <li>React/NextJS</li>
   </p></ul>
-
-<a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357">
 
 <div>
 <a href="https://github.com/caiiosanttoss">
