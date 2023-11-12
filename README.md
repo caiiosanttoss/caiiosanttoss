@@ -4,11 +4,11 @@
 
 
 <h1 > About Me: </h1>
-<ul><li>- 👋 Hi, I’m @caiiosantoss
-- 👀 I’m interested in Studyng
-- 🌱 I’m currently learning JavaScript, HTML, CSS e React
-- 📫 How to reach me  caio2000inove@gmail.om
-- 📫RECIFE-PE
+<ul><li>- 👋 Hi, I’m @caiiosantoss</li>
+<li>- 👀 I’m interested in Studyng</li>
+<li>- 🌱 I’m currently learning JavaScript, HTML, CSS e React</li>
+<li>- 📫 How to reach me  caio2000inove@gmail.om</li>
+<li>- 📫RECIFE-PE</li>
 </ul></li>
 <h1> My Skills</h1>
 <p>JavaScript, CSS, HTMLL e React/NextJS</p>
