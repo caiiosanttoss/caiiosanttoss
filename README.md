@@ -13,10 +13,10 @@
 <h1> My Skills</h1>
 <p>
   <p>
-  <ul><li>JavaScript 
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          </li> 
+  <ul><li>JavaScript  </li> 
             
+          
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
     <li>CSS</li>
     <li>HTMLL </li> 
