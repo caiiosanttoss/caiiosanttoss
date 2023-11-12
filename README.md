@@ -12,7 +12,12 @@
 </ul></li>
 <h1> My Skills</h1>
 <p>
-  <p><ul><li>JavaScript</li>, <li>CSS</li>,<li>HTMLL </li> <li>React/NextJS</p></ul></li>
+  <p>
+  <ul><li>JavaScript</li>,
+    <li>CSS</li>,
+    <li>HTMLL </li> 
+    <li>React/NextJS</li>
+  </p></ul>
 
 <div>
 <a href="https://github.com/caiiosanttoss">
