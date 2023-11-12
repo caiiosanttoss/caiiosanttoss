@@ -1,17 +1,18 @@
 
-<h1 align="center"> BEM VINDO </h1>
+<h1 align="center"> WELCOME </h1>
 
 
 
 <h1 > About Me: </h1>
-<ul><li>- 👋 Hi, I’m @caiiosantoss</li>
-<li>- 👀 I’m interested in Studyng</li>
-<li>- 🌱 I’m currently learning JavaScript, HTML, CSS e React</li>
-<li>- 📫 How to reach me  caio2000inove@gmail.om</li>
-<li>- 📫RECIFE-PE</li>
+<ul><li>👋 Hi, I’m @caiiosantoss</li>
+<li> 👀 I’m interested in Studyng</li>
+<li> 🌱 I’m currently learning JavaScript, HTML, CSS e React</li>
+<li> 📫 How to reach me  caio2000inove@gmail.om</li>
+<li> 📫RECIFE-PE</li>
 </ul></li>
 <h1> My Skills</h1>
-<p>JavaScript, CSS, HTMLL e React/NextJS</p>
+<p>
+  <p><ul><li>JavaScript</li>, <li>CSS</li>,<li>HTMLL </li> <li>React/NextJS</p></ul></li>
 
 <div>
 <a href="https://github.com/caiiosanttoss">
@@ -26,4 +27,4 @@
 <a href="https://www.twitch.tv/balaxgame" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/caio-santos-52497628b/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-<p> Discord: CAIO OU CASSIANO#5215</p>
+<p><strong> Discord: CAIO OU CASSIANO#5215</p></strong>
