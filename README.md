@@ -13,7 +13,9 @@
 <h1> My Skills</h1>
 <p>
   <p>
-  <ul><li>JavaScript</li>
+  <ul><li>JavaScript</li> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
     <li>CSS</li>
     <li>HTMLL </li> 
     <li>React/NextJS</li>
