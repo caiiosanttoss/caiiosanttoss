@@ -1,3 +1,6 @@
+
+<h1 align="center"> BEM VINDO </h1>
+
 - 👋 Hi, I’m @caiiosantoss
 - 👀 I’m interested in Studyng
 - 🌱 I’m currently learning JavaScript, HTML, CSS e React
