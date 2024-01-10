@@ -9,13 +9,7 @@
 <li> 📫RECIFE-PE</li>
 </ul></li>
 <h1> My Skills</h1>
-<p>
-  <p>
-  <ul><li>JavaScript  </li> 
-      <li>Git</li>
-   <li>CSS</li>
-    <li>HTMLL </li> 
-    <li>React/NextJS</li>
+
   </p></ul>
   
             
