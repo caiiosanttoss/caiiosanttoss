@@ -1,10 +1,6 @@
 
-<h1 align="center"> WELCOME </h1>
+<h1 align="center"> Hi, I'm @caiiosantoss </h1>
 
-
-
-<h1 > About Me: </h1>
-<ul><li>👋 Hi, I’m @caiiosantoss</li>
 
 <li> 📫RECIFE-PE</li>
 </ul></li>
