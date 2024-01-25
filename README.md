@@ -2,7 +2,7 @@
 <h1 align="center"> Hi, I'm @caiiosantoss </h1>
 
 
-<li> 📫RECIFE-PE</li>
+<li> 📫Recife-PE  - Brasil </li>
 </ul></li>
 <h1> My Skills</h1>
 
